@@ -4,7 +4,10 @@
 ## Description
 E-Commerce backend that allows you to create, edit, delete products, categories, and tags.
 
-##Table of Contents
+## Walkthrough
+![]https://github.com/mrafcent1/E-Com/blob/main/assets/ECOM.gif
+
+## Table of Contents
 * [Install](#Install)
 * [Use](#Use)
 * [License](#License)
@@ -13,6 +16,8 @@ E-Commerce backend that allows you to create, edit, delete products, categories,
 ## Install
 Install dependencies by runnning the following:
 `npm install`
+To run the program
+`npm start`
 
 ## Use
 To help you organize products for your business.
@@ -27,5 +32,5 @@ To test, run the following:
 ## License
 This project is covered by the [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) license.
 
-##Questions
+## Questions
 Any questions? Feel free to reach out to me at my Github: mrafcent1 or via my email alexfcenteno@outlook.com
