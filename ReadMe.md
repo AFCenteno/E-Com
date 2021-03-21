@@ -6,6 +6,7 @@ E-Commerce backend that allows you to create, edit, delete products, categories,
 
 ## Walkthrough
 ![]https://github.com/mrafcent1/E-Com/blob/main/assets/ECOM.gif
+MP4 Video: https://github.com/mrafcent1/E-Com/blob/main/assets/ECOMWALKTHROUGH.mp4
 
 ## Table of Contents
 * [Install](#Install)
